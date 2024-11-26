@@ -1,6 +1,6 @@
 {
-  "name": "Untitled App - xmb75",
-  "description": "This is the Untitled App - xmb75 chat app",
+  "name": "MyFirstChatApp",
+  "description": "This is the MyFirstChatApp chat app",
   "ragConfiguration": {
     "ragNumberOfResults": 5
   },
@@ -33,5 +33,5 @@
     ]
   },
   "files": [],
-  "lastUpdatedAtMillis": 1732656694469
+  "lastUpdatedAtMillis": 1732656725386
 }
